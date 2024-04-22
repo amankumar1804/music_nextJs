@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Course 1",
+        "slug": "course-1",
+        "description": "Description for Course 1",
+        "price": 29.99,
+        "instructor": "Instructor A",
+        "isFeatured": true,
+        "image": "https://getwallpapers.com/wallpaper/full/d/b/9/1105988-vertical-music-instrument-wallpaper-2560x1600.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Course 2",
+        "slug": "course-2",
+        "description": "Description for Course 2",
+        "price": 19.99,
+        "instructor": "Instructor B",
+        "isFeatured": false,
+        "image": "https://th.bing.com/th/id/OIP.jljp9puiOSYvY59nIxOw4AHaEK?w=300&h=180&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 3,
+        "title": "Course 3",
+        "slug": "course-3",
+        "description": "Description for Course 3",
+        "price": 39.99,
+        "instructor": "Instructor C",
+        "isFeatured": true,
+        "image": "https://th.bing.com/th/id/OIP.jljp9puiOSYvY59nIxOw4AHaEK?w=300&h=180&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+      },
+      {
+        "id": 4,
+        "title": "Course 4",
+        "slug": "course-4",
+        "description": "Description for Course 4",
+        "price": 49.99,
+        "instructor": "Instructor D",
+        "isFeatured": false,
+        "image": "https://example.com/image4.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Course 5",
+        "slug": "course-5",
+        "description": "Description for Course 5",
+        "price": 24.99,
+        "instructor": "Instructor E",
+        "isFeatured": true,
+        "image": "https://th.bing.com/th/id/OIP.EI9iYN7-FlKdJm42sPorhgHaLG?rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": 6,
+        "title": "Course 6",
+        "slug": "course-6",
+        "description": "Description for Course 6",
+        "price": 34.99,
+        "instructor": "Instructor F",
+        "isFeatured": false,
+        "image": "https://example.com/image6.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Course 7",
+        "slug": "course-7",
+        "description": "Description for Course 7",
+        "price": 44.99,
+        "instructor": "Instructor G",
+        "isFeatured": true,
+        "image": "https://cdn.britannica.com/18/162718-131-AF4AE6C6/instrument.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Course 8",
+        "slug": "course-8",
+        "description": "Description for Course 8",
+        "price": 59.99,
+        "instructor": "Instructor H",
+        "isFeatured": false,
+        "image": "https://example.com/image8.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Course 9",
+        "slug": "course-9",
+        "description": "Description for Course 9",
+        "price": 19.99,
+        "instructor": "Instructor I",
+        "isFeatured": true,
+        "image": "https://i5.walmartimages.com/asr/35fbac6a-4c88-49d5-aee0-4d9e358b5d0d.229f3cdd910a9bcd388bfbad13c0512b.jpeg"
+      },
+      {
+        "id": 10,
+        "title": "Course 10",
+        "slug": "course-10",
+        "description": "Description for Course 10",
+        "price": 29.99,
+        "instructor": "Instructor J",
+        "isFeatured": false,
+        "image": "https://example.com/image10.jpg"
+      }
+    ]
+  }
+  
